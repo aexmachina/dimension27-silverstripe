@@ -1,0 +1,1 @@
+Provides free access to our open source SilverStripe modules.
